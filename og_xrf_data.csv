@@ -1,0 +1,8 @@
+Sample ID,Units,Arsenic (As),Strontium (Sb),Lead (Pb)
+OEC-red bag,PPM,<LOD,<LOD,12
+OEC-McD white cup,PPM,<LOD,<LOD,10
+OEC-sprite,PPM,12,<LOD,70
+OEC-sprite inside,PPM,22,<LOD,93
+OEC-red solo cup outside,PPM,<LOD,<LOD,12
+OEC-red solo cup inside,PPM,<LOD,<LOD,14
+OEC-water botltle,PPM,6,90,20
